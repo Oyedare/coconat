@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Coconat";
+  src: url("https://cdn.jsdelivr.net/gh/Oyedare/coconat@main/fonts/Coconat-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Coconat";
+  src: url("https://cdn.jsdelivr.net/gh/Oyedare/coconat@main/fonts/Coconat-BoldExt.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
